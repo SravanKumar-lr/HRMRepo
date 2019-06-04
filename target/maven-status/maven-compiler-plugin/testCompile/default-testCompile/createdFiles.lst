@@ -1,0 +1,5 @@
+com\hrm\qa\testcases\GeneralInformationPageTest.class
+com\hrm\qa\testcases\PIMAddEmpPageTest.class
+com\hrm\qa\testcases\HomePageTest.class
+com\hrm\qa\testcases\LoginPageTest.class
+com\hrm\qa\testcases\DashboardTest.class

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HRM TestSuite">
+  <test name="HRM Application Test Automation UseCases">
+    <classes>
+      <class name="com.hrm.qa.testcases.LoginPageTest"/>
+      <class name="com.hrm.qa.testcases.HomePageTest"/>
+      <class name="com.hrm.qa.testcases.GeneralInformationPageTest"/>
+      <class name="com.hrm.qa.testcases.PIMAddEmpPageTest"/>
+      <class name="com.hrm.qa.testcases.DashboardTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

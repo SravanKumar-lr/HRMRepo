@@ -1,0 +1,7 @@
+com\hrm\qa\pages\DashboardPage.class
+com\hrm\qa\pages\PIMAddEmpPage.class
+com\hrm\qa\base\TestBase.class
+com\hrm\qa\pages\HomePage.class
+com\hrm\qa\pages\LoginPage.class
+com\hrm\qa\pages\GeneralInformationPage.class
+com\hrm\qa\util\TestUtil.class
